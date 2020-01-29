@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/robofriends/static/css/main.5d18e870.chunk.css",
-    "main.js": "/robofriends/static/js/main.34330b22.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.34330b22.chunk.js.map",
+    "main.js": "/robofriends/static/js/main.05b7a5f4.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.05b7a5f4.chunk.js.map",
     "runtime-main.js": "/robofriends/static/js/runtime-main.03e2f00f.js",
     "runtime-main.js.map": "/robofriends/static/js/runtime-main.03e2f00f.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robofriends/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.b0983e84.chunk.js": "/robofriends/static/js/2.b0983e84.chunk.js",
-    "static/js/2.b0983e84.chunk.js.map": "/robofriends/static/js/2.b0983e84.chunk.js.map",
+    "static/js/2.4b2956db.chunk.js": "/robofriends/static/js/2.4b2956db.chunk.js",
+    "static/js/2.4b2956db.chunk.js.map": "/robofriends/static/js/2.4b2956db.chunk.js.map",
     "index.html": "/robofriends/index.html",
-    "precache-manifest.144ed6c88d265fd16aefd97fd6577af4.js": "/robofriends/precache-manifest.144ed6c88d265fd16aefd97fd6577af4.js",
+    "precache-manifest.6e4a0541b223e7595c743925b9114dcc.js": "/robofriends/precache-manifest.6e4a0541b223e7595c743925b9114dcc.js",
     "service-worker.js": "/robofriends/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robofriends/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.5d18e870.chunk.css.map": "/robofriends/static/css/main.5d18e870.chunk.css.map",
-    "static/js/2.b0983e84.chunk.js.LICENSE": "/robofriends/static/js/2.b0983e84.chunk.js.LICENSE",
+    "static/js/2.4b2956db.chunk.js.LICENSE": "/robofriends/static/js/2.4b2956db.chunk.js.LICENSE",
     "static/media/App.css": "/robofriends/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.03e2f00f.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.b0983e84.chunk.js",
+    "static/js/2.4b2956db.chunk.js",
     "static/css/main.5d18e870.chunk.css",
-    "static/js/main.34330b22.chunk.js"
+    "static/js/main.05b7a5f4.chunk.js"
   ]
 }
